@@ -8,7 +8,7 @@
 * 由17级苏衍中负责提供数据和对数据故事具有表现力的地图等，包含三份数据，五份实现交互的图表，还提供了py文档
 * 由18级林立宇和我共同部署网页，我通过掌握到的python知识，比如**条件判断、推导式、循环遍历等，实现了dash可视化界面，并获取点击的城市分析该城市的数据，实现了具有交互功能的html页面，比如下拉框和数据表格交互，下拉框和条形图交互，编写了网页基本的css样式、html等**，最后将网页部署到Pythonanywhere，但可能由于不能跨域，导致pythonanywhere不能实现交互，我已经将本地录屏上传到github上。
 
-* [Pythonanywhere URL](SuSC.pythonanywhere.com)：SuSC.pythonanywhere.com
+* [Pythonanywhere URL](http://SuSC.pythonanywhere.com)：http://SuSC.pythonanywhere.com
 * [Github URL](https://github.com/SuThomas/python)：https://github.com/SuThomas/python
 
 
